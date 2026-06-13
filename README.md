@@ -97,6 +97,6 @@
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)]([https://solved.ac/sc1855](https://solved.ac/sc1855))
 
 </div>
