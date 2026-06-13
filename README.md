@@ -58,9 +58,13 @@
 ## 🏆 Awards / Certifications
 
 🥉 AWS DeepRacer 2024 장려상
+
 🥈 AWS DeepRacer 춘천 우수상
+
 🥈 대학생 창작모빌리티 경진대회 우수상
+
 📜 SQLD (SQL Developer)
+
 🛡 WhiteHat School 4기
 
 ---
